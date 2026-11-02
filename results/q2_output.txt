@@ -1,0 +1,13 @@
+Q2 — 2024 real-world MPG by vehicle type
+Included = 5 aggregate rows; missing required values = 0
+Vehicle Type  Real-World MPG  Difference vs pickup (MPG)  Difference vs pickup (%)
+ Sedan/Wagon        33.48734                    12.93835                  62.96344
+     Car SUV        39.18900                    18.64001                  90.71010
+   Truck SUV        25.70378                     5.15479                  25.08537
+ Minivan/Van        26.09710                     5.54811                  26.99943
+      Pickup        20.54899                     0.00000                   0.00000
+Highest MPG: Car SUV (39.18900 MPG)
+Pickup baseline: 20.54899 MPG
+Equal-type mean of Sedan/Wagon, Car SUV, Truck SUV: 32.79337 MPG
+That mean minus pickup: 12.24438 MPG (59.58630%)
+This equal-type mean is descriptive, not a production-weighted fleet MPG. No significance test is inferred from aggregate averages.

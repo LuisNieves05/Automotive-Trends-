@@ -1,0 +1,5 @@
+Python 3.13.0
+NumPy 2.3.5
+pandas 2.2.3
+Matplotlib 3.11.2
+Input SHA-256: cee15febd2a615ae701fc6cf95536b317f552905d0ce2467d753325dea31a787

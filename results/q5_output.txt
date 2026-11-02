@@ -1,0 +1,10 @@
+Q5 — Sedan/Wagon annual fleet acceleration, 2008–2024
+Selected = 17; included = 17; missing acceleration = 0
+Fastest observed year(s): 2023; average 0–60 mph time = 7.4135 s
+Equation: time (s) = intercept + slope × (year − 2008)
+Ordinary least squares: n = 17
+  intercept = 8.877390; slope = -0.07926642 s/year
+  R² = 0.927063; RMSE = 0.108921
+Observed 2008 to 2024 change = -0.9859 s
+Largest absolute residual = 0.274894 s
+RMSE units: seconds. Lower time means faster acceleration; the fitted trend does not determine the observed minimum.

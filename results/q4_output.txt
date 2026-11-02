@@ -1,0 +1,14 @@
+Q4 — 2024 Sedan/Wagon manufacturer averages
+Selected = 14; included = 14; excluded missing/nonpositive production = 0
+Equation: MPG = intercept + slope × HP
+Ordinary least squares (equal manufacturer weight): n = 14
+  intercept = 15.222498; slope = 0.09166969 MPG/HP
+  R² = 0.115829; RMSE = 23.000492
+Production-weighted least squares (weighted R² and RMSE): n = 14
+  intercept = 11.134739; slope = 0.11982547 MPG/HP
+  R² = 0.190014; RMSE = 16.109810
+RMSE units: MPG. Metrics are in-sample descriptive fit measures, not held-out prediction scores.
+Sensitivity only: ordinary fit excluding Tesla: n = 13
+  intercept = 34.545010; slope = -0.01096122 MPG/HP
+  R² = 0.051151; RMSE = 4.114579
+
